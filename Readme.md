@@ -1,6 +1,6 @@
 # Личный проект «{{projectTitle}}»
 
-* Студент: [DGTL-Owl]((https://htmlacademy.ru/profile/dgtl-owl).
+* Студент: [DGTL-Owl](https://htmlacademy.ru/profile/dgtl-owl).
 * Наставник: [Ирина Антипина}
 
 ---
