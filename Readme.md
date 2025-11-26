@@ -1,7 +1,7 @@
 # Личный проект «{{projectTitle}}»
 
-* Студент: [{{userName}}]({{userProfile}}).
-* Наставник: `Неизвестно`.
+* Студент: [DGTL-Owl]((https://htmlacademy.ru/profile/dgtl-owl).
+* Наставник: [Ирина Антипина}
 
 ---
 
