@@ -1,4 +1,4 @@
-# Личный проект «{{projectTitle}}»
+# Личный проект «SEDONA»
 
 * Студент: [DGTL-Owl](https://htmlacademy.ru/profile/dgtl-owl).
 * Наставник: [Ирина Антипина}
